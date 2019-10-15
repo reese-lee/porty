@@ -1,0 +1,29 @@
+body {
+    background-image: url('./../images/Hood.jpg');
+    background-size: 100%;
+    font-family: 'Open Sans', sans-serif;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.header {
+    font-family: 'Permanent Marker', cursive;
+    margin-top: 10%;
+    margin-left: 20%;
+    font-size: 5em;
+    color: white;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: pink;
+}
+
+/* font-family: 'Modak', cursive;
+font-family: 'Permanent Marker', cursive; */
