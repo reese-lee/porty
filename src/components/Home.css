@@ -17,6 +17,15 @@ body {
     color: white;
 }
 
+.subheaders {
+    font-family: 'Permanent Marker', cursive;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 5em;
+    color: white;
+}
+
 #intro {
     font-family: 'Permanent Marker', cursive;
     margin-top: 5%;
