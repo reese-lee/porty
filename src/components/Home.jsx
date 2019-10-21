@@ -8,7 +8,7 @@ export class Home extends Component {
     return (
       <div>
           <div>
-          <h1 class="header"><Link class="link" to="/projects">Get on top.</Link></h1>
+          <h1 class="header"><Link class="link" to="/menu">Get on top.</Link></h1>
           </div>
           
       
