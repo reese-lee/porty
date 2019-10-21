@@ -4,7 +4,7 @@ import './Home.css';
 function Projects() {
     return (
         <div>
-            <h1 class="header">Projects</h1>
+            <h1 class="subheaders">Projects</h1>
         </div>
     );
 }
