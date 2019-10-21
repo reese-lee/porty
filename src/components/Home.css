@@ -12,10 +12,18 @@ body {
     font-family: 'Permanent Marker', cursive;
     margin-top: 10%;
     margin-left: 20%;
+    margin-right: 20%;
     font-size: 5em;
     color: white;
 }
 
+#intro {
+    font-family: 'Permanent Marker', cursive;
+    margin-top: 5%;
+    margin-left: 10%;
+    font-size: 5em;
+    color: white;
+}
 .link {
     text-decoration: none;
     color: white;
@@ -25,5 +33,24 @@ a:hover{
     color: pink;
 }
 
+.titles {
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+    font-size: 3em;
+    margin-left: 10%;
+}
+
+.bio {
+    font-family: 'Inconsolata', monospace;
+    color: white;
+    font-size: 2em;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
 /* font-family: 'Modak', cursive;
-font-family: 'Permanent Marker', cursive; */
+font-family: 'Permanent Marker', cursive; 
+font-family: 'Roboto Slab', serif;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Inconsolata', monospace;
+font-family: 'Crimson Text', serif;*/
